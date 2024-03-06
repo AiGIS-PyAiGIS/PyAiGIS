@@ -57,6 +57,9 @@ Examples of codes to display above figures are available on https://github.com/A
 
 AiGIS is a 3D GIS designed for analysis on exploration data of irregular-shaped small bodies. The shape of a target body is represented by a polygon model, and geographic information is associated with polygons of the model. AiGIS can visualize and manipulate the shape model and map data on it.
 
+<img src="img/main_itokawa_with_multiview.png" data-query="?400"
+width="400" />
+
 AiGIS and its sample data are availabe at our [website](https://arcspace.jp/doku.php?id=aigis:top).
 
 ## Contact
