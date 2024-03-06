@@ -30,26 +30,30 @@ AiGIS2/PyAiGIS.
 
 Multi-view visualization of Itokawa shape and associated mapdata.
 
-<img src="/aigis2/itokawa_pyvistaqt.png" data-query="?400"
+<img src="img/Itokawa_PyVistaQt.png" data-query="?400"
 width="400" />
 
 2D distribution plot of the surface slope and elevation of Itokawa
 mapdata by Matplotlib.
 
-<img src="/aigis2/Itokawa_SlopeVSElevation.png" data-query="?400"
+<img src="img/Itokawa_SlopeVSElevation.png" data-query="?400"
 width="400" />
 
 Smooth terrain on Itokawa (regions where the slope is \< 10 \[deg\] and
 the elevation is \< -18 \[m\] are colored).
 
-<img src="/aigis2/Itokawa_PyVista_Selection.png" data-query="?400"
+<img src="img/Itokawa_PyVista_Selection.png" data-query="?400"
 width="400" />
 
 Slope distributions on Itokawa (slope directions and slopes are
 visualized with arrows).
 
-<img src="/aigis2/Itokawa_SlopeVectors.png" data-query="?400"
+<img src="img/Itokawa_SlopeVectors.png" data-query="?400"
 width="400" />
+
+## Exsample codes
+
+Examples of codes to display above figures are available on https://github.com/AiGIS-PyAiGIS/PyAiGIS-examples.
 
 ## Contact
 
@@ -58,10 +62,10 @@ Please send your questions and comments to Naru Hirata
 
 ## Acknowledgements
 
-AiGIS2/PyAiGIS is developed as a research project by students at the
-University of Aizu.  
+AiGIS2/PyAiGIS is developed as a research project by students and staffs at [ARC-Space](https://arcspace.jp), the
+[University of Aizu](https://u-aizu.ac.jp/en/).  
 The project is/was supported by:
 
-- ARC-Space, the University of Aizu, Distinctive Joint Research Center
+- [ARC-Space](https://arcspace.jp), the University of Aizu, Distinctive Joint Research Center
   supported by MEXT Grant Number
   JPMXP0619217839/JPMXP0622717003/JPMXP0723830458.
