@@ -1,8 +1,6 @@
-# PyAiGIS
+# PyAiGIS/AiGIS2
 
-## AiGIS2/PyAiGIS
-
-AiGIS2/PyAiGIS is an our new project that aims to develop an interactive analysis and visualization environment for irregular-shaped small body exploration data on Jupiter Notebook with Python.
+PyAiGIS/AiGIS2 is an our new project that aims to develop an interactive analysis and visualization environment for irregular-shaped small body exploration data on Jupiter Notebook with Python.
 
 As we introduced our preliminary achievements in the following meeting,
 
@@ -12,7 +10,7 @@ As we introduced our preliminary achievements in the following meeting,
 
 ## Technologies
 
-AiGIS2/PyAiGIS is developed with the following technologies:
+PyAiGIS/AiGIS2 is developed with the following technologies:
 
 - [VTK](https://vtk.org)
 - [PyVista](https://docs.pyvista.org/version/stable/)
@@ -26,7 +24,7 @@ AiGIS2/PyAiGIS is developed with the following technologies:
 ## Screenshots
 
 Examples of visualization of Itokawa shape and associated mapdata by
-AiGIS2/PyAiGIS.
+PyAiGIS/AiGIS2.
 
 Multi-view visualization of Itokawa shape and associated mapdata.
 
@@ -54,6 +52,12 @@ width="400" />
 ## Exsample codes
 
 Examples of codes to display above figures are available on https://github.com/AiGIS-PyAiGIS/PyAiGIS-examples.
+
+## AiGIS (Java Application version)
+
+AiGIS is a 3D GIS designed for analysis on exploration data of irregular-shaped small bodies. The shape of a target body is represented by a polygon model, and geographic information is associated with polygons of the model. AiGIS can visualize and manipulate the shape model and map data on it.
+
+AiGIS and its sample data are availabe at our [website](https://arcspace.jp/doku.php?id=aigis:top).
 
 ## Contact
 
