@@ -10,7 +10,7 @@ As we introduced our preliminary achievements in the following meeting,
 
 ## Examples
 
-Jupyter Notebook samples are available on [AiGIS-PyAiGIS/PyAiGIS-examples](https://github.com/AiGIS-PyAiGIS/PyAiGIS-examples).
+Jupyter Notebook samples are available on https://github.com/AiGIS-PyAiGIS/PyAiGIS-examples.
 
 ## Technologies
 
@@ -52,10 +52,6 @@ visualized with arrows).
 
 <img src="img/Itokawa_SlopeVectors.png" data-query="?400"
 width="400" />
-
-## Exsample codes
-
-Examples of codes to display above figures are available on https://github.com/AiGIS-PyAiGIS/PyAiGIS-examples.
 
 ## AiGIS (Java Application version)
 
