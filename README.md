@@ -6,7 +6,9 @@ As we introduced our preliminary achievements in the following meeting,
 
 - Nagayoshi and Hirata (2022) AiGIS2, a Jupyter Notebook-based Interactive Analysis and Visualization Tool for Asteroid Exploration Data, AGU Fall Meeting 2022, held in Chicago, IL, 12-16 December 2022, [P25F-2187](https://ui.adsabs.harvard.edu/abs/2022AGUFM.P25F2187N/abstract).
 - Nagayoshi and Hirata (2023) AiGIS2, Interactive, Versatile Analysis and Visualization Tool for Asteroid Exploration Data, AGU Fall Meeting 2023, P33F-3207.
-- [Hirata and Nagayoshi (2024) AiGIS2/PyAiGIS, A Python-based Interactive Analysis And Visualization Tool For Asteroid Exploration Data, LPSC 55, #1877.](https://www.hou.usra.edu/meetings/lpsc2024/pdf/1877.pdf)
+- Hirata and Nagayoshi (2024) AiGIS2/PyAiGIS, A Python-based Interactive Analysis And Visualization Tool For Asteroid Exploration Data, LPSC 55, #1877.
+  - [Abstract](https://www.hou.usra.edu/meetings/lpsc2024/pdf/1877.pdf)
+  - [Poster](https://arcspace.jp/lib/exe/fetch.php?media=aigis2:55thlpsc_pyaigis_20240311.2.pdf)
 
 ## Examples
 
