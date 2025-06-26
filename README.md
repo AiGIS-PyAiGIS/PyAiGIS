@@ -9,6 +9,8 @@ As we introduced our preliminary achievements in the following meeting,
 - Hirata and Nagayoshi (2024) AiGIS2/PyAiGIS, A Python-based Interactive Analysis And Visualization Tool For Asteroid Exploration Data, LPSC 55, #1877.
   - [Abstract](https://www.hou.usra.edu/meetings/lpsc2024/pdf/1877.pdf)
   - [Poster](https://arcspace.jp/lib/exe/fetch.php?media=aigis2:55thlpsc_pyaigis_20240311.2.pdf)
+- Hirata, Endo and Nagayoshi (2025) Latest Updates on AiGIS2/PyAiGIS: Enhancing Geographic Visualization and Analysis for Irregular-Shaped Small Bodies, LPSC 56, #1873.
+  - [Abstract](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1873.pdf)
 
 ## Examples
 
